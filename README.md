@@ -3,6 +3,6 @@
 
 Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
 
-![Binary Search](D:/BinarySearchTree/a/sample3.png)
+![Binary Search](sample3.png)
 
 [www.patika.dev](https://www.patika.dev/tr)
